@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T07qPWeU7Zk=",
+  "success": true,
+  "projectFilePath": "D:\\CSharp\\decode-dll\\decode-dll\\decode-dll.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nrsheridan\\.nuget\\packages\\mono.cecil\\0.11.5\\mono.cecil.0.11.5.nupkg.sha512"
+  ],
+  "logs": []
+}

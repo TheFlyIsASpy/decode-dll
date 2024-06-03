@@ -1,0 +1,15 @@
+D:\CSharp\decode-dll\decode-dll\bin\Debug\net8.0\decode-dll.exe
+D:\CSharp\decode-dll\decode-dll\bin\Debug\net8.0\decode-dll.deps.json
+D:\CSharp\decode-dll\decode-dll\bin\Debug\net8.0\decode-dll.runtimeconfig.json
+D:\CSharp\decode-dll\decode-dll\bin\Debug\net8.0\decode-dll.dll
+D:\CSharp\decode-dll\decode-dll\bin\Debug\net8.0\decode-dll.pdb
+D:\CSharp\decode-dll\decode-dll\obj\Debug\net8.0\decode-dll.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\decode-dll\decode-dll\obj\Debug\net8.0\decode-dll.AssemblyInfoInputs.cache
+D:\CSharp\decode-dll\decode-dll\obj\Debug\net8.0\decode-dll.AssemblyInfo.cs
+D:\CSharp\decode-dll\decode-dll\obj\Debug\net8.0\decode-dll.csproj.CoreCompileInputs.cache
+D:\CSharp\decode-dll\decode-dll\obj\Debug\net8.0\decode-dll.sourcelink.json
+D:\CSharp\decode-dll\decode-dll\obj\Debug\net8.0\decode-dll.dll
+D:\CSharp\decode-dll\decode-dll\obj\Debug\net8.0\refint\decode-dll.dll
+D:\CSharp\decode-dll\decode-dll\obj\Debug\net8.0\decode-dll.pdb
+D:\CSharp\decode-dll\decode-dll\obj\Debug\net8.0\decode-dll.genruntimeconfig.cache
+D:\CSharp\decode-dll\decode-dll\obj\Debug\net8.0\ref\decode-dll.dll
